@@ -1,2 +1,0 @@
-appsvc/php:8.1-fpm_20221208.1.tuxprod
-appsvc/php:8.1-fpm-xdebug_20221208.1.tuxprod
