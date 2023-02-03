@@ -57,4 +57,7 @@ $response = $kernel->handle(
 
 $response->send();
 
+// This will dump the entire Laravel response back, and some more
+d($response);
+
 $kernel->terminate($request, $response);
